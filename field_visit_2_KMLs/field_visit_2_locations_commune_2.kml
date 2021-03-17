@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="field_visit_2_locations_commune_2" id="field_visit_2_locations_commune_2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="commune" type="string"></SimpleField>
+</Schema>
+<Folder><name>field_visit_2_locations_commune_2</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.98143111111111,12.6349019444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.992,12.6564166666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.988,12.6574166666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.98663888888889,12.6406666666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.97947222222222,12.6727777777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.992,12.6568333333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.98886111111111,12.6504444444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_2">
+		<SimpleData name="type">CSREF</SimpleData>
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="commune">II</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.97430805555556,12.64625</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

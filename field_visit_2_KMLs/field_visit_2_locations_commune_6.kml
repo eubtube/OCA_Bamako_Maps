@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="field_visit_2_locations_commune_6" id="field_visit_2_locations_commune_6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="commune" type="string"></SimpleField>
+</Schema>
+<Folder><name>field_visit_2_locations_commune_6</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_6">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="commune">VI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.9355,12.5058333333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_6">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="commune">VI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.96127777777778,12.588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_6">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="commune">VI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.96347222222222,12.6149444444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_6">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="commune">VI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.95794111111111,12.6021111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_6">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="commune">VI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.95614,12.610425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_6">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="commune">VI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.97330555555556,12.5688888888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_6">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="commune">VI</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.92582388888889,12.6039330555556</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

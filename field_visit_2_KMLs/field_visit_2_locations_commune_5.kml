@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="field_visit_2_locations_commune_5" id="field_visit_2_locations_commune_5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="commune" type="string"></SimpleField>
+</Schema>
+<Folder><name>field_visit_2_locations_commune_5</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.01488,12.5858711111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.99271305555556,12.5593830555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.97757305555556,12.600805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.97757111111111,12.6008088888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.02158333333333,12.5960833333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">ecole</SimpleData>
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.00891666666667,12.6059166666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.98115305555556,12.6115669444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.98531,12.575415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.99500888888889,12.6038680555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSCOM</SimpleData>
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.03433333333333,12.5766111111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#field_visit_2_locations_commune_5">
+		<SimpleData name="type">CSREF</SimpleData>
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="commune">V</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.99059388888889,12.6121561111111</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
